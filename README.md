@@ -14,6 +14,11 @@ General Rules:
 I usually follow encrypt everything if possible,
 avoid storing personal user data if possible.
 
+Import with
+```go
+import "github.com/bgokden/go-encrypt/encrypt"
+```
+
 Hash usage:
 
 ```go
